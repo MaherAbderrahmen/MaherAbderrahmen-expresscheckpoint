@@ -1,0 +1,42 @@
+.menu{
+    background-color: rgb(161, 195, 245);
+    padding:5px;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    width: 30%;
+    
+}
+.navbar li{
+    list-style-type:none;
+   
+}
+.navbar li a{
+    text-decoration:none;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    font-size:1.5rem;
+}
+h2{
+    color: blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    color: crimson;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2px 15px;
+}
+body{
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
